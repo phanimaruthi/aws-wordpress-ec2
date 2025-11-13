@@ -1,1 +1,0 @@
-# aws-wordpress-ec2
